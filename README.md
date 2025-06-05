@@ -1,4 +1,4 @@
-# Navigation System - Shortest Path Finder
+# 📍Navigation System - Shortest Path Finder
 
 This Java project implements a **directed weighted graph** to simulate a  map and uses **Dijkstra's algorithm** to find the shortest path between two buildings.
 
